@@ -242,7 +242,7 @@ function spawnObstacles (){
     
     
     obstacle.lifetime = 220; 
-    obstacle.debug = true ;
+    obstacle.debug = false ;
     
     var rand = Math.round(random(1,3));
     
